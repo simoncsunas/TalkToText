@@ -1,0 +1,10 @@
+D:\_CSH\sSpeech\sSpeech\bin\Debug\sSpeech.exe
+D:\_CSH\sSpeech\sSpeech\bin\Debug\sSpeech.pdb
+D:\_CSH\sSpeech\sSpeech\obj\Debug\ResolveAssemblyReference.cache
+D:\_CSH\sSpeech\sSpeech\obj\Debug\sSpeech.fMain.resources
+D:\_CSH\sSpeech\sSpeech\obj\Debug\sSpeech.Properties.Resources.resources
+D:\_CSH\sSpeech\sSpeech\obj\Debug\sSpeech.csproj.GenerateResource.Cache
+D:\_CSH\sSpeech\sSpeech\obj\Debug\sSpeech.exe
+D:\_CSH\sSpeech\sSpeech\obj\Debug\sSpeech.pdb
+C:\_CSH\sSpeech\sSpeech\obj\Debug\sSpeech.exe
+C:\_CSH\sSpeech\sSpeech\obj\Debug\sSpeech.pdb
